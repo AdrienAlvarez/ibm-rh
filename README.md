@@ -2,7 +2,7 @@
 
 L’objectif : montrer sur un cas concret comment j’utilise la data pour des sujets RH (énormément d'améliorations restent possible sur chacun des modèles).
 
-<img width="550" height="284" alt="image" src="[https://github.com/user-attachments/assets/32811649-0eb6-4a86-85c2-f21029d84954](https://www.gesi.org/wp-content/uploads/2024/08/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png)" />
+<img width="550" height="284" alt="image" src="https://www.gesi.org/wp-content/uploads/2024/08/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png)" />
 
 ---
 
