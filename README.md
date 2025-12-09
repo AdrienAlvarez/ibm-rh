@@ -1,9 +1,8 @@
 # IBM RH
 
-J’ai monté ce projet en un week-end pour préparer un entretien avec la Marine nationale (section ITN).
-L’objectif : montrer sur un cas concret comment j’utilise la data pour des sujets RH (énormément d'améliorations restent possible sur chacun des modèles, si besoin je peux développer ce point sans problème).
+L’objectif : montrer sur un cas concret comment j’utilise la data pour des sujets RH (énormément d'améliorations restent possible sur chacun des modèles).
 
-<img width="550" height="284" alt="image" src="https://github.com/user-attachments/assets/32811649-0eb6-4a86-85c2-f21029d84954" />
+<img width="550" height="284" alt="image" src="[https://github.com/user-attachments/assets/32811649-0eb6-4a86-85c2-f21029d84954](https://www.gesi.org/wp-content/uploads/2024/08/purepng.com-ibm-logologobrand-logoiconslogos-251519939176ka7y8.png)" />
 
 ---
 
